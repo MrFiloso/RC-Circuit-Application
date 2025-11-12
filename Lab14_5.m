@@ -1,4 +1,4 @@
-% RC Circuit Application 
+% RC Circuit Application % I suggest using ode15
 % Define some constants
 RC = 0.2;
 vi = 2;
